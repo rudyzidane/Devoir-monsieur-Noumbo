@@ -1,0 +1,133 @@
+body {
+    background-image: url('../images/code2.png');
+    background-repeat: repeat-y ;
+    background-attachment: fixed;
+    background-size: 100%;   
+    font-family: "Roboto", helvetica, sans-serif;
+    padding: 60px 0 0;
+    margin: 0;
+    font-size: 18px;
+}
+
+body * {
+    box-sizing: border-box;
+}
+
+fieldset {
+    padding: 0;
+    border: 0;
+    margin: 0;
+}
+
+.signup-form {
+    width: 800px;
+    padding: 40px;
+    border-radius: 3px;
+    background: white;
+    margin: 0 auto;
+    max-width: 100%;
+    height: auto;
+}
+
+.signup-form legend {
+    width: 100%;
+    line-height: 38px;
+    font-size: 35px;
+    font-weight: 300;
+    color: #565656;
+    text-align: center;
+    letter-spacing: 0;
+    margin: 0 auto 45px;
+}
+
+button[type="submit"] {
+    display: block;
+    height: 400px;
+    width: 150px;
+    color: white;
+    font-size: 18px;
+    text-align: left;
+    padding: 15px;
+    border-radius: 2px;
+    background: white;
+    margin: 10px auto 20px; 
+    transition: opacity 0.4s;
+    max-width: 100%;
+    border-radius: 50%;
+}
+
+button[type="submit"] {
+    height: auto;
+    font-size: 22px;
+    font-weight: 250;
+    text-align: center;
+    color: white;
+    background:rgb(60, 60, 145);
+    border: 0;
+    cursor: pointer;
+    margin-bottom: 0;
+}
+
+
+button[type="previous"],
+button[type="next"] {
+    height: auto;
+    font-size: 20px;
+    font-weight: 240;
+    text-align: center;
+    padding: 15px;
+}
+
+
+
+button[type="submit"]:hover,
+button[type="submit"]:focus {
+    background-color: rgb(97, 5, 97);
+    -webkit-transition: background 0.1s;
+    -moz-transition: background 0.1s;
+    -o-transition: background 0.1s;
+    transition: background 0.1s;
+}
+
+.signup-form p {
+    font-size: 24px;
+    text-align: center;
+    margin: 10px 0 0;
+    color: #696969;
+}
+
+.signup-form a {
+    color: #999;
+    text-decoration: none;
+    border-bottom: 1px solid #bbb;
+ }
+
+.signup-form a:hover {
+    border-color: #999;
+    color: #777;
+}
+
+.footer {
+    
+    position: absolute;
+    bottom: -20px;
+    width: 100%; 
+    text-align: center;
+    color: white;
+    margin: 20px auto;
+    font-weight: 600;
+    border: 0;
+    padding: 0;
+}
+
+.footer a {
+    color: white;
+}
+
+.footer a:hover {
+    color: #E7F1F9;
+}
+#error {
+    text-align: center;
+
+}
