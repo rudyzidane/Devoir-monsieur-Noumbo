@@ -1,39 +1,35 @@
-# Javascript Quiz Application 
-Welcome to "Javascript Quiz App with HTML, CSS, and Jquery". Javascript Quiz App is a fun new way to practice, improve, and test your Javascript skills, and test yourself in a truly.
+# Application de quiz Javascript
+Bienvenue dans "Javascript Quiz App avec HTML, CSS et Jquery". L'application Javascript Quiz est une nouvelle façon amusante de pratiquer, d'améliorer et de tester vos compétences en Javascript, et de vous tester de manière vraiment.
 
-### Purpose
-The purpose of this quiz isn't to be a brain-buster. It is meant for recruiters to present to front-end developer candidates.
+### Objectif
+Le but de ce quiz n'est pas d'être un casse-tête. Il est destiné aux recruteurs à présenter aux candidats développeurs front-end.
 
- ### How the application work:
- ------------------------------
+  ### Comment fonctionne l'application :
+  ------------------------------
 
-* The starting screen has a button that users can click to start the quiz.
-* Users can prompted through a series of at least 5 multiple choice questions that they can answer.
-* Users can asked questions 1 after the other.
-* Users can only be prompted with 1 question at a time.
-* Users should not be able to skip questions.
-* Users also able to see which question they're on (for instance, "7 out of 10") and their current score ("5 correct, 2 incorrect").
-* Upon submitting an answer, users: receive textual feedback about their answer. If they were incorrect, they should be told the         correct   answer. be moved onto the next question (or interact with an element to move on).
-* Users can see their overall score at the end of the quiz. In other words, how many questions they got right out of the total questions asked.
-* Users can able to start a new quiz.
+* L'écran de démarrage comporte un bouton sur lequel les utilisateurs peuvent cliquer pour démarrer le quiz.
+* Les utilisateurs peuvent être invités à travers une série d'au moins 5 questions à choix multiples auxquelles ils peuvent répondre.
+* Les utilisateurs peuvent poser des questions 1 après l'autre.
+* Les utilisateurs ne peuvent recevoir qu'une seule question à la fois.
+* Les utilisateurs ne doivent pas pouvoir ignorer les questions.
+* Les utilisateurs peuvent également voir à quelle question ils se trouvent (par exemple, "7 sur 10") et leur score actuel ("5 corrects, 2 incorrects").
+* Lors de la soumission d'une réponse, les utilisateurs : reçoivent des commentaires textuels sur leur réponse. S'ils étaient incorrects, il faut leur dire la bonne réponse. passer à la question suivante (ou interagir avec un élément pour passer à autre chose).
+* Les utilisateurs peuvent voir leur score global à la fin du quiz. En d'autres termes, combien de questions ont-ils reçu sur le total des questions posées.
+* Les utilisateurs peuvent démarrer un nouveau quiz.
 
- ![alt home](https://github.com/SultanaK/Javascript-Quiz-App/blob/master/images/home.png)  
  
- ![alt home](https://github.com/SultanaK/Javascript-Quiz-App/blob/master/images/question.png)  
  
- ![alt home](https://github.com/SultanaK/Javascript-Quiz-App/blob/master/images/result.png)  
 
- -----------------------
+  ------------------------
 
-### Quiz  App has :
+### L'application Quiz  :
 
-1. Render answer choices in a form.
-2. Use semantic HTML, along with CSS and jQuery.
+1. Affichez les choix de réponse dans un formulaire.
+2. Utilise le HTML sémantique, ainsi que CSS et jQuery.
 3. Responsive.
-4. Fully usable by keyboard.
+4. Entièrement utilisable par clavier.
 
-### Technology:
-HTML5, CSS3 and jQuery.
-## Live link:
-  https://sultanak.github.io/Javascript-Quiz-App/
+### Technologie:
+HTML5, CSS3 et jQuery.
+
 
